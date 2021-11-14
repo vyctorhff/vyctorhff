@@ -1,16 +1,28 @@
-### Hi there 👋
+### A little more about me...
 
-<!--
-**vyctorhff/vyctorhff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduated to Cefet-RN, Brazil.
+Linkedin: www.linkedin.com/in/victor-hugo-ferreira-de-figueiredo-522b0aba
 
-Here are some ideas to get you started:
+## Main Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Spring security
+- Hibernate
+- Kafka
+- PostgreSQL
+- Linux
+- Git
+- JavaScript
+
+
+## Studying
+
+- Golang
+- MongoDB
+- Docker
+- AWS
+- Typescript
+- Angular
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyctorhff&show_icons=true&theme=gruvbox)
