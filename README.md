@@ -6,7 +6,7 @@
 
 ### A little more about me...
 
-Graduated to Cefet-RN, Brazil.
+Graduated at Cefet-RN, Brazil.
 Linkedin: www.linkedin.com/in/victor-hugo-ferreira-de-figueiredo-522b0aba
 
 
