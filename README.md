@@ -14,7 +14,5 @@ Linkedin: www.linkedin.com/in/victor-hugo-ferreira-de-figueiredo-522b0aba
 
 - Golang
 - MongoDB
-- Docker
-- AWS
-- Typescript
-- Angular
+- Docker/kubernates
+- gRPC
