@@ -12,7 +12,7 @@ Linkedin: www.linkedin.com/in/victor-hugo-ferreira-de-figueiredo-522b0aba
 
 ## Studying
 
-- Golang
+- Typescrypt
 - MongoDB
 - Docker/kubernates
 - gRPC
