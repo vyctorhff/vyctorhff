@@ -31,7 +31,7 @@ Graduated at Cefet-RN in 2017, Brazil.
 
 ### Contact
 <a href="www.linkedin.com/in/victor-hugo-ferreira-de-figueiredo-522b0aba" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 ## Studying
