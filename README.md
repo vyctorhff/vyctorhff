@@ -18,6 +18,19 @@ Graduated at Cefet-RN in 2017, Brazil.
 - Alelo as a backend developer(Java and Typescript)
 
 
+### Contact
+<a href="www.linkedin.com/in/victor-hugo-ferreira-de-figueiredo-522b0aba" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+## Studying
+
+- NodeJS
+- Typescrypt
+- AWS
+- gRPC
+- Quarkus
+
 ### Tech Stack
 ![Java](https://img.shields.io/badge/java--green?style=flat&logo=openjdk)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/java-Spring%20Boot-green?style=flat&logo=spring)&nbsp;
@@ -37,18 +50,3 @@ Graduated at Cefet-RN in 2017, Brazil.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL--yellow?style=flat&logo=postgresql)&nbsp;
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server--yellow?style=flat&logo=microsoftsqlserver)&nbsp;
 ![Mongo](https://img.shields.io/badge/mongo--yellow?style=flat&logo=mongodb)&nbsp;
-
-
-### Contact
-<a href="www.linkedin.com/in/victor-hugo-ferreira-de-figueiredo-522b0aba" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-
-## Studying
-
-- NodeJS
-- Typescrypt
-- AWS
-- gRPC
-- Quarkus
