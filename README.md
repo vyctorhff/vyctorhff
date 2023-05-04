@@ -1,8 +1,7 @@
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vyctorhff&show_icons=true&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctorhff&theme=gruvbox"/>
+<img height="280em" src="https://github-readme-stats.vercel.app/api?username=vyctorhff&show_icons=true&theme=gruvbox"/>
+<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctorhff&theme=gruvbox"/>
 </div>
-
 
 ### Graduation
 Graduated at Cefet-RN in 2017, Brazil.
