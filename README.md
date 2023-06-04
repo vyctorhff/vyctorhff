@@ -4,7 +4,7 @@
 </div>
 
 ### Graduation
-Graduated at Cefet-RN in 2017, Brazil.
+Graduated at Cefet-RN in 2016, Brazil.
 
 
 ### Where have I worked?
