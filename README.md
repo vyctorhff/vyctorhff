@@ -24,10 +24,8 @@ Graduated at Cefet-RN in 2016, Brazil.
 
 ## Studying
 
-- NodeJS
-- Typescrypt
-- AWS
-- gRPC
+- NodeJS with Typescrypt
+- Restudying Data-structe
 - Quarkus
 
 ### Tech Stack
