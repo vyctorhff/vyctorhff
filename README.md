@@ -1,6 +1,6 @@
 <div align="center">
-<img height="210em" src="https://github-readme-stats.vercel.app/api?username=vyctorhff&show_icons=true&theme=gruvbox"/>
-<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctorhff&theme=gruvbox"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=vyctorhff&show_icons=true&theme=gruvbox"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyctorhff&theme=gruvbox"/>
 </div>
 
 ### Graduation
@@ -14,7 +14,8 @@ Graduated at Cefet-RN in 2016, Brazil.
 - Linkcon as a developer (java), dba(postgresql and tester
 - TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, javascript)
 - Via as a Java backend developer (Java, javascript, Go)
-- Alelo as a backend developer (Java and Typescript)
+- Alelo as backend developer (Java + Spring Boot)
+- Alelo as backend developer (NodeJS + NestJS + Typescript)
 
 
 ### Contact
@@ -24,7 +25,9 @@ Graduated at Cefet-RN in 2016, Brazil.
 
 ## Studying
 
-- NodeJS with Typescrypt
+- Leetcode
+- Deno with Typescrypt
+- Java with Spring Boot
 - Restudying Data-structe
 - Quarkus
 
