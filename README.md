@@ -9,13 +9,13 @@ Graduated at Cefet-RN in 2016, Brazil.
 
 ### Where have I worked?
 
-- UFRN (Universidade Federal Rio Grande do Norte) as a trainee developer (java)
-- Petrobras as a developer (java)
-- Linkcon as a developer (java), dba(postgresql and tester
-- TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, javascript)
-- Via as a Java backend developer (Java, javascript, Go)
-- Alelo as backend developer (Java + Spring Boot)
-- Alelo as backend developer (NodeJS + NestJS + Typescript)
+- UFRN (Universidade Federal Rio Grande do Norte) as a trainee developer (java);
+- Petrobras as a fullstack developer (java, oracle, weblogic);
+- Linkcon as a fullstack developer (java, postgresql);
+- TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, javascript);
+- Via as a Java backend developer (Java, javascript, Go, Mongo);
+- Alelo as backend developer (Java + Spring Boot);
+- Alelo as backend developer (NodeJS + NestJS + Typescript).
 
 
 ## Contact
