@@ -9,7 +9,7 @@ Graduated at Cefet-RN in 2016, Brazil.
 
 ### Where have I worked?
 
-- UFRN (Universidade Federal Rio Grande do Norte) as a trainee developer (java);
+- UFRN (Universidade Federal Rio Grande do Norte) as a trainee frontend and backend developer (java);
 - Petrobras as a fullstack developer (java, oracle, weblogic);
 - Linkcon as a fullstack developer (java, postgresql);
 - TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, javascript);
