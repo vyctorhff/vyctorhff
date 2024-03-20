@@ -12,10 +12,10 @@ Graduated at Cefet-RN in 2016, Brazil.
 - UFRN (Universidade Federal Rio Grande do Norte) as a trainee frontend and backend developer (java);
 - Petrobras as a fullstack developer (java, oracle, weblogic);
 - Linkcon as a fullstack developer (java, postgresql);
-- TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, javascript);
-- Via as a Java backend developer (Java, javascript, Go, Mongo);
-- Alelo as backend developer (Java + Spring Boot);
-- Alelo as backend developer (NodeJS + NestJS + Typescript).
+- TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, javascript, Openshift);
+- Via(Empresa de varejo) as a Java backend developer (Java, javascript, Go, Mongo);
+- Alelo as backend developer (Java + Spring Boot + Azure + Openshift);
+- Alelo as backend developer (NodeJS + NestJS + Typescript + Azure + Openshift).
 
 
 ## Contact
@@ -26,9 +26,10 @@ Graduated at Cefet-RN in 2016, Brazil.
 ## Studying
 
 - Leetcode
-- Deno with Typescrypt
 - Java with Spring Boot
-- Restudying Data-structe
+- Micro servives
+- Clean Architecture
+- Restudying Data-structure
 - Quarkus
 
 ### Tech Stack
@@ -50,3 +51,4 @@ Graduated at Cefet-RN in 2016, Brazil.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL--yellow?style=flat&logo=postgresql)&nbsp;
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server--yellow?style=flat&logo=microsoftsqlserver)&nbsp;
 ![Mongo](https://img.shields.io/badge/mongo--yellow?style=flat&logo=mongodb)&nbsp;
+
