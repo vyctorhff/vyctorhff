@@ -14,8 +14,8 @@ Graduated at Cefet-RN in 2016, Brazil.
 - Linkcon as a fullstack developer (java, postgresql);
 - TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, javascript, Openshift);
 - Via(Empresa de varejo) as a Java backend developer (Java, javascript, Go, Mongo);
-- Alelo as backend developer (Java + Spring Boot + Azure + Openshift);
-- Alelo as backend developer (NodeJS + NestJS + Typescript + Azure + Openshift).
+- Alelo as backend developer (Java, Spring Boot, Azure, Openshift);
+- Alelo as backend developer (NodeJS, NestJS, Typescript, Azure, Openshift).
 
 
 ## Contact
