@@ -4,18 +4,18 @@
 </div>
 
 ### Graduation
-Graduated at Cefet-RN in 2016, Brazil.
+Graduated at Cefet-RN in 2006, Brazil.
 
 
 ### Where have I worked?
 
-- UFRN (Universidade Federal Rio Grande do Norte) as a trainee frontend and backend developer (java);
-- Petrobras as a fullstack developer (java, oracle, weblogic);
-- Linkcon as a fullstack developer (java, postgresql);
-- TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, javascript, Openshift);
-- Via(Empresa de varejo) as a Java backend developer (Java, javascript, Go, Mongo);
-- Alelo as backend developer (Java, Spring Boot, Azure, Openshift);
-- Alelo as backend developer (NodeJS, NestJS, Typescript, Azure, Openshift).
+- [2006-2007] UFRN (Universidade Federal Rio Grande do Norte) as a trainee frontend and backend developer (java);
+- [2011-2015] Petrobras as a fullstack developer (java, oracle, weblogic);
+- [2015-2018] Linkcon as a fullstack developer (java, postgresql);
+- [2018-2021] TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, javascript, Openshift);
+- [2021-2022] Via(Empresa de varejo) as a Java backend developer (Java, javascript, Go, Mongo);
+- [2022-2023] Alelo as backend developer (Java, Spring Boot, Azure, Openshift);
+- [2023-2024] Alelo as backend developer (NodeJS, NestJS, Typescript, Azure, Openshift).
 
 
 ## Contact
@@ -27,10 +27,11 @@ Graduated at Cefet-RN in 2016, Brazil.
 
 - Leetcode
 - Java with Spring Boot
+- Quarkus
+- Studying Golang
 - Micro servives
 - Clean Architecture
 - Restudying Data-structure
-- Quarkus
 
 ### Tech Stack
 ![Java](https://img.shields.io/badge/java--green?style=flat&logo=openjdk)&nbsp;
