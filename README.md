@@ -15,7 +15,7 @@ Graduated at Cefet-RN in 2006, Brazil.
 - [2018-2021] TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java, js, Openshift);
 - [2021-2022] Via(Empresa de varejo) as a Java backend developer (Java, javascript, Go, Mongo);
 - [2022-2023] Alelo as backend developer (NodeJS, NestJS, Typescript, Azure, Openshift, Oracle);
-- [2023-2024] Alelo as backend developer (Java, Spring Boot, Azure, Openshift, Oracle).
+- [2023-today] Alelo as backend developer (Java, Spring Boot, Azure, Openshift, Oracle).
 
 
 ## Contact
