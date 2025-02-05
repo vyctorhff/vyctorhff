@@ -9,8 +9,8 @@ Graduated at CEFET-RN in 2006, Brazil.
 
 ### Where have I worked?
 
-- [2006-2007] UFRN (Universidade Federal Rio Grande do Norte) as a trainee frontend and backend developer (java 6 , jboss, structs);
-- [2011-2015] Petrobras as a fullstack developer (java 8, oracle, weblogic);
+- [2006-2007] UFRN (Universidade Federal Rio Grande do Norte) as fullstack trainee developer (java 6, jsp, jboss, structs);
+- [2011-2015] Petrobras as a fullstack developer (java 8, oracle, weblogic, jira);
 - [2015-2018] Linkcon as a fullstack developer (java 8, tomcat, postgresql);
 - [2018-2021] TJ-RN (Tribunal de Justiça do Estado do Rio Grande do Norte) as a tech lead and developer (Java 11, js, Openshift);
 - [2021-2022] Via(Empresa de varejo) as a Java backend developer (Java 11, Angular, Go, Mongo);
