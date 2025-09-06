@@ -26,12 +26,10 @@ Graduated at CEFET-RN in 2006, Brazil.
 
 ## Studying
 
-- Java with Spring Boot
 - Java with Quarkus
 - Golang
 - Leetcode
 - Micro servives
-- Clean Architecture
 - Restudying Data-structure
 
 ### Tech Stack
