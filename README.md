@@ -27,10 +27,9 @@ Graduated at CEFET-RN in 2006, Brazil.
 ## Studying
 
 - Java with Quarkus
-- Golang
+- Langchain with java
 - Leetcode
-- Micro servives
-- Restudying Data-structure
+- Python
 
 ### Tech Stack
 ![Java](https://img.shields.io/badge/java--green?style=flat&logo=openjdk)&nbsp;
