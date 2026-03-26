@@ -16,7 +16,9 @@ Graduated at CEFET-RN in 2006, Brazil.
 - [2021-2022] CI&T in Via(Empresa de varejo) as a Java backend developer (Java 11, Angular, Go, Mongo);
 - [2022-2023] CI&T in Alelo as backend developer (NodeJS, NestJS, Typescript, Azure, Openshift, Oracle);
 - [2023-2025] CI&T in Alelo as backend developer (Java 17, Spring Boot, Azure, Openshift, Oracle);
-- [2025-today] CI&T in Bradesco as fullstack mobile (Java 11, Spring Boot, Azure, Angular 17, Github Actions, SQL Server).
+- [2025-2025] CI&T in Bradesco as fullstack mobile (Java 11, Spring Boot, Azure, Angular 17, Github Actions, SQL Server).
+- [2025-2026] Bullla (Java 21, Spring Boot, Spring Batch, Google cloud, PostreSQL, Data Dog)
+- [2026-today] 
 
 
 ## Contact
@@ -28,8 +30,6 @@ Graduated at CEFET-RN in 2006, Brazil.
 
 - Java with Quarkus
 - Langchain with java
-- Leetcode
-- Python
 
 ### Tech Stack
 ![Java](https://img.shields.io/badge/java--green?style=flat&logo=openjdk)&nbsp;
@@ -50,4 +50,5 @@ Graduated at CEFET-RN in 2006, Brazil.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL--yellow?style=flat&logo=postgresql)&nbsp;
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server--yellow?style=flat&logo=microsoftsqlserver)&nbsp;
 ![Mongo](https://img.shields.io/badge/mongo--yellow?style=flat&logo=mongodb)&nbsp;
+![Data Dog]
 
